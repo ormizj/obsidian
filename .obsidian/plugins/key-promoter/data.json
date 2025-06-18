@@ -291,10 +291,10 @@
     "table-editor-obsidian:evaluate-formulas": 1,
     "table-editor-obsidian:table-control-bar": 1,
     "obsidian-git:push2": 10,
-    "obsidian-git:push": 8,
-    "obsidian-git:backup-and-close": 8,
-    "obsidian-git:commit-push-specified-message": 8,
-    "command-palette:open": 4,
+    "obsidian-git:push": 10,
+    "obsidian-git:backup-and-close": 10,
+    "obsidian-git:commit-push-specified-message": 10,
+    "command-palette:open": 6,
     "obsidian-git:commit": 3,
     "obsidian-git:commit-specified-message": 3,
     "obsidian-git:commit-staged": 3,
@@ -304,7 +304,7 @@
     "bookmarks:bookmark-current-view": 2,
     "bookmarks:bookmark-current-section": 2,
     "bookmarks:bookmark-all-tabs": 2,
-    "terminal:open-terminal.select.": 2
+    "terminal:open-terminal.select.": 7
   },
   "keyboardStatistics": {
     "typing-assistant:insert-text": 2,
