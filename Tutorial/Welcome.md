@@ -11,5 +11,3 @@ and this is another link to another note with the same name:
 	"filepath": "Ink/Writing/2025.6.18 - 19.31pm.writing"
 }
 ```
-1
-123
