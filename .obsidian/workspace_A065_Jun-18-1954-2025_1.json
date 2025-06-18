@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e1d57663c6139bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "90d969df23ee4e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef024faf3f1b62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bc71521a01cb24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "842039367c8c5ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea5e82b58dd2605",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96b2f9c9f9953b39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed35a8d1ba4266f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9603e655b1a2288d",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f456740645db4a6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe60b98edcf06cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "712deca7b600fe9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a051ca7af3755c73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1837bd04f402feba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d19301270a49d09c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "copilot:Open Copilot Chat": false,
+      "omnisearch:Omnisearch": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "aef024faf3f1b62a",
+  "lastOpenFiles": [
+    "Tutorial/Linked Note.md",
+    "Tutorial/Welcome.md",
+    "Tutorial/Nested Folder/Linked Note.md",
+    "deleted.md",
+    "Ink/Writing/2025.6.18 - 19.31pm.writing",
+    "Tutorial/Welcome_A065_Jun-18-1930-2025_1.md",
+    "Tutorial/Nested Folder",
+    "Excalidraw/Drawing 2025-06-18 19.26.40.excalidraw.md",
+    "Excalidraw",
+    "Untitled",
+    "Open Uni",
+    "Tutorial",
+    "Excalidraw/Drawing 2025-06-18 19.24.59.excalidraw.md",
+    "Notes",
+    "Untitled/Excalidraw",
+    "Ink/Writing/2025.6.18 - 19.19pm.writing",
+    "Ink/Writing/2025.6.18 - 19.23pm (2).writing",
+    "Open Uni/2025-06-11 1.md"
+  ]
+}

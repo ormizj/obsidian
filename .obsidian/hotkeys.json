@@ -1,0 +1,14 @@
+{
+  "refresh-preview:refresh-active-view": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ]
+}
