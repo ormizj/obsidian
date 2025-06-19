@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/Nested Folder/Linked Note.md",
+                "file": "Tutorial/Welcome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linked Note"
+              "title": "Welcome"
             }
           },
           {
@@ -199,16 +199,6 @@
             }
           },
           {
-            "id": "5838fa7f4cf87dee",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "01d7d3f7238d7ae5",
             "type": "leaf",
             "state": {
@@ -217,9 +207,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "696a2931e12315e6",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -248,13 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63475c8b61f4a6ab",
+  "active": "01d7d3f7238d7ae5",
   "lastOpenFiles": [
-    "Tutorial/Drawing.md",
-    "Tutorial/Linked Note.md",
     "Tutorial/Untitled.md",
-    "Tutorial/Welcome.md",
+    "Tutorial/Linked Note.md",
+    "Tutorial/Drawing.md",
     "Tutorial/Nested Folder/Linked Note.md",
+    "Tutorial/Welcome.md",
     "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094746.md",
     "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094651.md",
     "copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250619_094321.md",
