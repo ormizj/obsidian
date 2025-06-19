@@ -1,0 +1,45 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1750313947552",
+      "name": "Gemma",
+      "apiKey": "",
+      "url": "http://localhost:11434",
+      "type": "ollama",
+      "model": "gemma3:4b",
+      "availableModels": [
+        "gemma3:1b",
+        "llama2:latest",
+        "gemma3:12b",
+        "gemma3:4b",
+        "deepseek-r1:14b",
+        "deepseek-r1:8b",
+        "deepseek-r1:7b",
+        "deepseek-r1:1.5b",
+        "deepseek-r1:32b"
+      ]
+    },
+    {
+      "id": "id-1750315201642",
+      "name": "Deepseek",
+      "apiKey": "",
+      "url": "http://localhost:11434",
+      "type": "ollama",
+      "model": "deepseek-r1:8b",
+      "availableModels": [
+        "gemma3:1b",
+        "llama2:latest",
+        "gemma3:12b",
+        "gemma3:4b",
+        "deepseek-r1:14b",
+        "deepseek-r1:8b",
+        "deepseek-r1:7b",
+        "deepseek-r1:1.5b",
+        "deepseek-r1:32b"
+      ]
+    }
+  ]
+}

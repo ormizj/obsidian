@@ -1,5 +1,5 @@
 {
-  "userId": "2a64f8d8-6389-445a-93c1-83af1e04360a",
+  "userId": "6ce29a0a-45ba-452c-8d91-463c8c332841",
   "isPlusUser": false,
   "plusLicenseKey": "",
   "openAIApiKey": "",
@@ -18,8 +18,8 @@
   "mistralApiKey": "",
   "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "copilot-plus-flash|copilot-plus",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "defaultModelKey": "gpt-4.1|openai",
+  "embeddingModelKey": "gemma3:4b|ollama",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -29,7 +29,7 @@
   "stream": true,
   "defaultSaveFolder": "copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
-  "autosaveChat": false,
+  "autosaveChat": true,
   "includeActiveNoteAsContext": true,
   "defaultOpenArea": "view",
   "customPromptsFolder": "copilot-custom-prompts",
@@ -109,95 +109,28 @@
       ]
     },
     {
-      "name": "claude-sonnet-4-20250514",
-      "provider": "anthropic",
+      "name": "gemma3:4b",
+      "provider": "ollama",
       "enabled": true,
-      "isBuiltIn": true,
-      "capabilities": [
-        "reasoning",
-        "vision"
-      ]
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "enableCors": true
     },
     {
-      "name": "claude-3-7-sonnet-latest",
-      "provider": "anthropic",
+      "name": "deepseek-r1:8b",
+      "provider": "ollama",
       "enabled": true,
-      "isBuiltIn": true,
-      "capabilities": [
-        "reasoning",
-        "vision"
-      ]
-    },
-    {
-      "name": "claude-3-5-haiku-latest",
-      "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "grok-3-beta",
-      "provider": "xai",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "grok-3-mini-beta",
-      "provider": "xai",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "gemini-2.5-flash-preview-04-17",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "projectEnabled": true,
-      "capabilities": [
-        "vision"
-      ]
-    },
-    {
-      "name": "gemini-2.5-pro-preview-06-05",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "projectEnabled": true,
-      "capabilities": [
-        "vision"
-      ]
-    },
-    {
-      "name": "command-r",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "command-r-plus",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "deepseek-chat",
-      "provider": "deepseek",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "deepseek-reasoner",
-      "provider": "deepseek",
-      "enabled": true,
-      "isBuiltIn": true,
-      "capabilities": [
-        "reasoning"
-      ]
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
@@ -240,37 +173,20 @@
       "core": true
     },
     {
-      "name": "text-embedding-3-large",
-      "provider": "openai",
+      "name": "gemma3:4b",
+      "provider": "ollama",
       "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
-    },
-    {
-      "name": "embed-multilingual-light-v3.0",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
-    },
-    {
-      "name": "text-embedding-004",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "enableCors": true
     }
   ],
   "embeddingRequestsPerMin": 90,
   "embeddingBatchSize": 16,
-  "disableIndexOnMobile": true,
+  "disableIndexOnMobile": false,
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
   "numPartitions": 1,

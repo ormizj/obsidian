@@ -2,7 +2,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
   "pdf-plus",
-  "copilot",
   "obsidian-mind-map",
   "omnisearch",
   "mermaid-tools",
@@ -14,5 +13,12 @@
   "key-promoter",
   "table-editor-obsidian",
   "obsidian-git",
-  "terminal"
+  "terminal",
+  "ai-providers",
+  "copilot",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "fast-text-color",
+  "obsidian-linter",
+  "obsidian-icon-folder",
+  "emoji-shortcodes"
 ]
