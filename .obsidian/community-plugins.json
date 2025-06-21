@@ -21,5 +21,12 @@
   "obsidian-linter",
   "obsidian-icon-folder",
   "emoji-shortcodes",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-hider",
+  "obsidian-reading-time",
+  "statusbar-organizer",
+  "obsidian-statusbar-pomo",
+  "obsidian-show-file-path",
+  "obsidian-grandfather",
+  "last-modified-timestamp-in-status-bar"
 ]

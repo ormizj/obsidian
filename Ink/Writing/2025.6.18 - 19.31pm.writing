@@ -27,7 +27,7 @@
 					"isLocked": false,
 					"opacity": 1,
 					"meta": {
-						"savedH": 975
+						"savedH": 375
 					},
 					"type": "writing-lines",
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
@@ -48,7 +48,7 @@
 					"isLocked": true,
 					"opacity": 1,
 					"meta": {
-						"savedH": 975
+						"savedH": 375
 					},
 					"type": "writing-container",
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
@@ -1902,6 +1902,41 @@
 					"index": "aM",
 					"typeName": "shape"
 				},
+				"shape:JmKh_YhfjzCVWmhZEUGmC": {
+					"x": 1696.1871172930744,
+					"y": 145.98355679898648,
+					"rotation": 0,
+					"isLocked": false,
+					"opacity": 1,
+					"meta": {},
+					"id": "shape:JmKh_YhfjzCVWmhZEUGmC",
+					"type": "draw",
+					"props": {
+						"segments": [
+							{
+								"type": "free",
+								"points": [
+									{
+										"x": -1.35,
+										"y": 0,
+										"z": 0.35
+									}
+								]
+							}
+						],
+						"color": "black",
+						"fill": "none",
+						"dash": "draw",
+						"size": "m",
+						"isComplete": true,
+						"isClosed": false,
+						"isPen": true,
+						"scale": 1
+					},
+					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+					"index": "aO",
+					"typeName": "shape"
+				},
 				"shape:mX8wtJ3IBD_JK4KBCb_32": {
 					"x": 1702.941234691723,
 					"y": 62.252147777660475,
@@ -1971,41 +2006,6 @@
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
 					"index": "aN",
 					"typeName": "shape"
-				},
-				"shape:JmKh_YhfjzCVWmhZEUGmC": {
-					"x": 1696.1871172930744,
-					"y": 145.98355679898648,
-					"rotation": 0,
-					"isLocked": false,
-					"opacity": 1,
-					"meta": {},
-					"id": "shape:JmKh_YhfjzCVWmhZEUGmC",
-					"type": "draw",
-					"props": {
-						"segments": [
-							{
-								"type": "free",
-								"points": [
-									{
-										"x": -1.35,
-										"y": 0,
-										"z": 0.35
-									}
-								]
-							}
-						],
-						"color": "black",
-						"fill": "none",
-						"dash": "draw",
-						"size": "m",
-						"isComplete": true,
-						"isClosed": false,
-						"isPen": true,
-						"scale": 1
-					},
-					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
-					"index": "aO",
-					"typeName": "shape"
 				}
 			},
 			"schema": {
@@ -2056,7 +2056,7 @@
 					"camera": {
 						"x": 0,
 						"y": 0,
-						"z": 0.237
+						"z": 0.378
 					},
 					"selectedShapeIds": [],
 					"focusedGroupId": null
