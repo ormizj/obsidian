@@ -1,0 +1,44 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Welcome",
+      "path": "Tutorial/Welcome.md"
+    },
+    {
+      "basename": "Linked Note",
+      "path": "Tutorial/Linked Note.md"
+    },
+    {
+      "basename": "Drawing",
+      "path": "Tutorial/Drawing.md"
+    },
+    {
+      "basename": "Linked Note",
+      "path": "Tutorial/Nested Folder/Linked Note.md"
+    },
+    {
+      "basename": "2025.6.18 - 19.31pm",
+      "path": "Ink/Writing/2025.6.18 - 19.31pm.writing"
+    },
+    {
+      "basename": "2025.6.20 - 18.28pm",
+      "path": "Ink/Writing/2025.6.20 - 18.28pm.writing"
+    },
+    {
+      "basename": "If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250619_094321",
+      "path": "copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250619_094321.md"
+    },
+    {
+      "basename": "can_you_create_a_table_in_this_note_{activeNote}@20250619_094746",
+      "path": "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094746.md"
+    },
+    {
+      "basename": "can_you_create_a_table_in_this_note_{activeNote}@20250619_094651",
+      "path": "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094651.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

@@ -28,5 +28,7 @@
   "obsidian-statusbar-pomo",
   "obsidian-show-file-path",
   "obsidian-grandfather",
-  "last-modified-timestamp-in-status-bar"
+  "last-modified-timestamp-in-status-bar",
+  "recent-files-obsidian",
+  "file-cleaner-redux"
 ]

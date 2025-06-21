@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/Nested Folder/Linked Note.md",
+                "file": "Tutorial/Welcome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linked Note"
+              "title": "Welcome"
             }
           },
           {
@@ -100,6 +100,16 @@
               "icon": "trash",
               "title": "Trash explorer"
             }
+          },
+          {
+            "id": "b4783c0902e7c68a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -121,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/Nested Folder/Linked Note.md",
+                "file": "Tutorial/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linked Note"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -223,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,40 +256,45 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "file-cleaner-redux:Clean files": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "janitor:Janitor: scan vault": false
     }
   },
   "active": "63475c8b61f4a6ab",
   "lastOpenFiles": [
     "Tutorial/Linked Note.md",
-    "Tutorial/Welcome.md",
-    "Tutorial/Untitled.md",
     "Tutorial/Drawing.md",
+    "Tutorial/Welcome.md",
     "Tutorial/Nested Folder/Linked Note.md",
-    "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094746.md",
-    "Untitled.md",
-    "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094651.md",
+    "Tutorial/TEST_FILE.writing",
+    "Tutorial/New Text Document.txt",
+    "Tutorial/screencapture-nirajrules-wordpress-2011-07-15-association-vs-dependency-vs-aggregation-vs-composition-2024-12- - Copy.png",
+    "Ink/Writing/2025.6.18 - 19.31pm.writing",
+    "Ink/Writing/2025.6.20 - 18.28pm.writing",
     "copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20250619_094321.md",
+    "Chats/New Chat.md",
+    "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094746.md",
+    "copilot-conversations/can_you_create_a_table_in_this_note_{activeNote}@20250619_094651.md",
+    "Tutorial/Untitled.md",
+    "Untitled.md",
     "copilot-conversations",
     "copilot-conversations/9.11_and_9.8,_which_is_bigger@20250619_093020.md",
     "copilot-conversations/Give_me_a_quick_recap_of_{activeNote}_in_two_sentences.@20250619_092959.md",
-    "Chats/New Chat.md",
     "Tutorial/Nested Folder/Untitled.md",
     "Chats",
     "README.md",
     "Untitled 1.md",
     "Open Uni/Pre-academic Mathematics",
-    "Ink/Writing/2025.6.18 - 19.31pm.writing",
     "deleted.md",
     "Tutorial/Welcome_A065_Jun-18-1930-2025_1.md",
     "Tutorial/Nested Folder",
     "Excalidraw/Drawing 2025-06-18 19.26.40.excalidraw.md",
     "Excalidraw",
     "Untitled",
-    "Open Uni",
-    "Tutorial",
     "Excalidraw/Drawing 2025-06-18 19.24.59.excalidraw.md",
-    "Notes",
     "Open Uni/2025-06-11 1.md"
   ]
 }
